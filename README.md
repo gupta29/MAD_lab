@@ -1,4 +1,4 @@
-# MAD_LAB_2023
+# MAD_lab
 JAVA  LAB exercise questions 
  
-  BY-: AMAN GOSWAMI (211B038)
+  BY-: VAIBHAV GUPTA (211B336)
